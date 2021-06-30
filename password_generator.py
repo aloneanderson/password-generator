@@ -17,4 +17,5 @@ def gen():
         print('Password:', Back.RED + p, end='')
         print(Style.RESET_ALL)
 
+
 gen()
